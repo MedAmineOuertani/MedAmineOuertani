@@ -2,7 +2,8 @@ Hi 👋 My name is Mohamed Amine Ouertani
 =======================================
 Fullstack Web Developer
 -----------------------
-I am a passionate Full Stack web developer and Software engineer , finding creative solutions to problems is something I have always enjoyed. As a kid I loved tinkering with things that were broken, figuring out how they worked, and fixing them again. When I finished high school, I knew exactly what I wanted my career to be.* 🌍  I'm based in Tunisia
+I am a passionate Full Stack web developer and Software engineer , finding creative solutions to problems is something I have always enjoyed. As a kid I loved tinkering with things that were broken, figuring out how they worked, and fixing them again. When I finished high school, I knew exactly what I wanted my career to be.
+* 🌍  I'm based in Tunisia
 * 🖥️  See my portfolio at [My portfolio](http://medamineouertani.github.io/website/index.html)
 * ✉️  You can contact me at [mohamedamine.ouertani@ensi-uma.tn](mailto:mohamedamine.ouertani@ensi-uma.tn)*
 * 🧠  I'm learning React , Express.js , mongoDB* 
