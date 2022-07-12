@@ -2,7 +2,7 @@ Hi 👋 My name is Mohamed Amine Ouertani
 =======================================
 Fullstack Web Developer
 -----------------------
-I am a passionate Full Stack web developer and Software engineer , I write clean, readable and modular code. I love learning new technologies that bring efficiencies and increased productivity to my workflow.
+I am a passionate Full Stack web developer and Software engineer. I write clean, readable and modular code. I love learning new technologies that bring efficiencies and increased productivity to my workflow.
 * 🌍  I'm based in Tunisia
 * 🖥️  See my portfolio at [My portfolio](http://medamineouertani.github.io/website/index.html)
 * ✉️  You can contact me at [mohamedamine.ouertani@ensi-uma.tn](mailto:mohamedamine.ouertani@ensi-uma.tn)*
