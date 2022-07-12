@@ -5,9 +5,9 @@ Fullstack Web Developer
 I am a passionate Full Stack web developer and Software engineer. I write clean, readable and modular code. I love learning new technologies that bring efficiencies and increased productivity to my workflow.
 * 🌍  I'm based in Tunisia
 * 🖥️  See my portfolio at [My portfolio](http://medamineouertani.github.io/website/index.html)
-* ✉️  You can contact me at [mohamedamine.ouertani@ensi-uma.tn](mailto:mohamedamine.ouertani@ensi-uma.tn)*
-* 🧠  I'm learning React , Express.js , mongoDB* 
-* 🤝  I'm open to collaborating on interesting projects.* 
+* ✉️  You can contact me at [mohamedamine.ouertani@ensi-uma.tn](mailto:mohamedamine.ouertani@ensi-uma.tn) 
+* 🧠  I'm learning React , Express.js , mongoDB 
+* 🤝  I'm open to collaborating on interesting projects.
 * ⚡  I'm secretely the one who invented the internet , but don't tell anyone.
 
 ### Skills
