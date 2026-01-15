@@ -1,4 +1,4 @@
-Hi 👋 My name is Mohamed Amine Ouertani
+<h1>Hi 👋 My name is Mohamed Amine Ouertani</h1>
 DevOps & Cloud Engineer | Kubernetes | AWS | SRE-minded
 
 I am a DevOps & Cloud Engineer with a strong software engineering background. I focus on building reliable, scalable, and automated cloud infrastructures, enabling teams to ship faster and operate systems with confidence.
