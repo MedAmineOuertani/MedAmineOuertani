@@ -1,13 +1,18 @@
 Hi 👋 My name is Mohamed Amine Ouertani
-=======================================
-Fullstack Web Developer
------------------------
-I am a passionate Full Stack web developer and Software engineer. I write clean, readable and modular code. I love learning new technologies that bring efficiencies and increased productivity to my workflow.
-* 🌍  I'm based in Tunisia
-* ✉️  You can contact me at [mohamedamine.ouertani@ensi-uma.tn](mailto:mohamedamine.ouertani@ensi-uma.tn) 
-* 🧠  I'm learning React , Express.js , mongoDB 
-* 🤝  I'm open to collaborating on interesting projects.
-* ⚡  I'm secretely the one who invented the internet , but don't tell anyone.
+DevOps & Cloud Engineer | Kubernetes | AWS | SRE-minded
+
+I am a DevOps & Cloud Engineer with a strong software engineering background. I focus on building reliable, scalable, and automated cloud infrastructures, enabling teams to ship faster and operate systems with confidence.
+I enjoy bridging the gap between development and operations through CI/CD, Infrastructure as Code, container orchestration, and reliability best practices.
+
+🌍 Based in Tunisia
+
+✉️ Reach me at mohamedamine.ouertani@ensi-uma.tn
+
+🧠 Currently deepening my knowledge in Kubernetes, AWS, SRE practices, and cloud-native architectures
+
+🤝 Open to collaborating on DevOps, Cloud, Platform, and Open-Source projects
+
+⚡ Fun fact: I might have invented the internet… but let’s keep that between us 😉
 
 ### Skills
 
